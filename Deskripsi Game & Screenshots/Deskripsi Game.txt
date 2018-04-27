@@ -1,0 +1,23 @@
+Deskripsi singkat game:
+-------------------------
+- Game Tower Defense Multiplayer (3 player), seperti game Line Rangers tetapi ada 3 kubu, jadi map nya berbentuk segitiga
+
+
+Ketentuan & Cara bermain
+-------------------------
+- pilih dan klik icon karakter yang ingin dikeluarkan
+- pilih dan klik kubu yang ingin diserang
+- gold awal 200, akan bertambah 10 gold setiap detik
+- 1 kubu yang bertahan yang akan menang
+
+
+Yang sudah dibuat:
+-------------------
+- Pertama masuk ke (scene Login), nanti login dahulu, bisa juga register (harus connect internet)
+- akun yang sudah diregister:
+username & password:	qwerty | qwerty
+			asd123 | asd123
+- kemudian masuk ke (scene Awal), disini bisa create game atau join game
+- kemudian masuk ke (scene Main) untuk main game nya
+- ketika game sudah di create, player lain sudah bisa membaca room tersebut dan join, tapi sinkronisasinya masih error
+- kebanyakan yang sudah dibuat baru tampilan, script nya juga mungkin berantakan
